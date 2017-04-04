@@ -1,0 +1,18 @@
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.Resources.resources
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.vbproj.GenerateResource.Cache
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\bin\Debug\CheckItOut.exe
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\bin\Debug\CheckItOut.pdb
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\bin\Debug\CheckItOut.xml
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.exe
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.xml
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.pdb
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Programming Theory 1\CheckItOut\CheckItOut\obj\x86\Debug\CheckItOut.frmLylCrdCheck.resources
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.exe
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.xml
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.pdb
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\bin\Debug\CheckItOut.exe
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\bin\Debug\CheckItOut.pdb
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\bin\Debug\CheckItOut.xml
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.frmLylCrdCheck.resources
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.Resources.resources
+T:\ICT\GCSE Computer Science\Visual Basic and Controlled Test Resources\Sample VB Programs\Sample CA Solutions\CheckItOut v0.9\CheckItOut\obj\x86\Debug\CheckItOut.vbproj.GenerateResource.Cache
